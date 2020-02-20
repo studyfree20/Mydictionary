@@ -36,7 +36,7 @@ for presidents in president:
     print(president)
 for value in president.values():
     print(value)
-#items
+#printing items with fields
 for m,n in president.items():
     print (m,n)
 
